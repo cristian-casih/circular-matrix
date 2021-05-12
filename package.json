@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "cristian-casih",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-casih/circular-matrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristian-casih/circular-matrix/issues"
+  },
+  "homepage": "https://github.com/cristian-casih/circular-matrix#readme"
 }
